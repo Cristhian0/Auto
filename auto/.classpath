@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src/main/assembly"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Documents/librerias de appium/apache-mime4j-0.5.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Documents/librerias de appium/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Documents/librerias de appium/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Documents/librerias de appium/client-combined-3.0.1-nodeps.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Documents/librerias de appium/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Documents/librerias de appium/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Documents/librerias de appium/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Documents/librerias de appium/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Documents/librerias de appium/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Documents/librerias de appium/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Documents/librerias de appium/cssparser-0.9.20.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Documents/librerias de appium/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Documents/librerias de appium/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Documents/librerias de appium/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Documents/librerias de appium/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Documents/librerias de appium/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Documents/librerias de appium/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Documents/librerias de appium/htmlunit-2.23.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Documents/librerias de appium/htmlunit-core-js-2.23.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Documents/librerias de appium/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Documents/librerias de appium/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Documents/librerias de appium/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Documents/librerias de appium/java-client-4.1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Documents/librerias de appium/java-client-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Documents/librerias de appium/java-client-4.1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Documents/librerias de appium/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Documents/librerias de appium/jetty-io-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Documents/librerias de appium/jetty-util-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Documents/librerias de appium/jgoodies.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Documents/librerias de appium/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Documents/librerias de appium/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Documents/librerias de appium/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Documents/librerias de appium/neko-htmlunit-2.23.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Documents/librerias de appium/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Documents/librerias de appium/phantomjsdriver-1.3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Documents/librerias de appium/poi-3.15.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Documents/librerias de appium/poi-examples-3.15.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Documents/librerias de appium/poi-excelant-3.15.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Documents/librerias de appium/poi-ooxml-3.15.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Documents/librerias de appium/poi-ooxml-schemas-3.15.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Documents/librerias de appium/poi-scratchpad-3.15.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Documents/librerias de appium/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Documents/librerias de appium/selenium-java-2.46.0-srcs.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Documents/librerias de appium/selenium-java-3.0.1-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Documents/librerias de appium/selenium-java-3.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Documents/librerias de appium/selenium-server-standalone-3.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Documents/librerias de appium/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Documents/librerias de appium/sqlite-jdbc-3.7.2.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Documents/librerias de appium/websocket-api-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Documents/librerias de appium/websocket-client-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Documents/librerias de appium/websocket-common-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Documents/librerias de appium/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Documents/librerias de appium/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Documents/librerias de appium/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Documents/librerias de appium/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Downloads/jar_files/aws-java-sdk-core-1.11.213.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Downloads/jar_files/aws-java-sdk-devicefarm-1.11.213.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Downloads/jar_files/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Downloads/jar_files/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Downloads/jar_files/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Downloads/jar_files/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Downloads/jar_files/ion-java-1.0.2.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Downloads/jar_files/jackson-annotations-2.6.0.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Downloads/jar_files/jackson-core-2.6.7.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Downloads/jar_files/jackson-databind-2.6.7.1.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Downloads/jar_files/jackson-dataformat-cbor-2.6.7.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Downloads/jar_files/jmespath-java-1.11.213.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Downloads/jar_files/joda-time-2.8.1.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Downloads/hudson-core-3.0.0.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Downloads/json-lib-2.0-jdk15.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Downloads/apache-commons-lang.jar"/>
+	<classpathentry kind="lib" path="/Users/cristhian.a.sanchez/Downloads/stapler-1.98.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/3"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
